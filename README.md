@@ -41,13 +41,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-![노요한's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yohan7207&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan7207&layout=compact&hide_border=true)
-
-<br>
-
 ---
 
 _공부하며 성장 중입니다. 피드백은 언제나 환영합니다! 😊_
