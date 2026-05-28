@@ -9,9 +9,9 @@
 
 - 🎓 컴퓨터공학과 재학 중
 - 🔭 풀스택 개발 · AI · VR 분야에 관심
-- 🌱 현재 학습 중인 기술: _(예: React, FastAPI, Unity 등)_
+- 🌱 현재 학습 중인 기술: C language, Python
 - 💬 협업과 오픈소스 기여에 열려 있습니다
-- 📫 연락처: _(이메일 또는 링크 추가)_
+- 📫 연락처: shdygks8@naver.com
 
 <br>
 
